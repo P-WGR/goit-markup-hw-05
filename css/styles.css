@@ -479,7 +479,7 @@ img {
     fill: #f4f4fd;
 }
 
-/*MODAL*/
+/*SUBSCRIBE*/
 .subscribe {
     margin-bottom: 16px;
     font-weight: 500;
@@ -491,6 +491,7 @@ img {
 
 .form {
     display: flex;
+    gap: 24px;
 }
 
 .label-footer {
