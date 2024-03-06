@@ -611,5 +611,14 @@ input::placeholder {
     letter-spacing: 0.02em;
     color: #2E2F42;
     margin-bottom: 16px;
+
+}
+
+.form-div {
+    margin-bottom: 8px;
+
+}
+
+.label-form {
     
 }
