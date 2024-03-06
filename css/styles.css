@@ -545,7 +545,7 @@ input::placeholder {
 
 
 
-/* ===MODAL===*/
+/* ===MODAL
 @keyframes modal-go {
     from {
         opacity: 0;
@@ -565,3 +565,4 @@ input::placeholder {
     background-color: rgba(46, 47, 66, 0.4);
 }
 
+===*/
