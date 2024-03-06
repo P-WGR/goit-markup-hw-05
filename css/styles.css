@@ -545,16 +545,7 @@ input::placeholder {
 
 
 
-/* ===MODAL
-@keyframes modal-go {
-    from {
-        opacity: 0;
-    }
-
-    to {
-        opacity: 1;
-    }
-}
+/* ===MODAL=== */
 
 .window {
     position: fixed;
@@ -563,6 +554,5 @@ input::placeholder {
     left: 0;
     top: 0;
     background-color: rgba(46, 47, 66, 0.4);
+    transition: opacity 250ms cubic-bezier(0.4, 0, 0.2, 1), visibility 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
-
-===*/
