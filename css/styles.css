@@ -480,10 +480,6 @@ img {
 }
 
 /*MODAL*/
-.modal {
-
-}
-
 .subscribe {
     margin-bottom: 16px;
     font-weight: 500;
@@ -495,7 +491,6 @@ img {
 
 .form {
     display: flex;
-
 }
 
 .label-footer {
