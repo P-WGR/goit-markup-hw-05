@@ -659,3 +659,7 @@ input::placeholder {
 .icon-modal:active {
     fill: #4D5AE5;
 }
+
+.comment-div {
+    margin-bottom: 16px
+}
