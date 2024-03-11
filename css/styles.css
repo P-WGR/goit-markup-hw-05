@@ -611,7 +611,6 @@ input::placeholder {
     letter-spacing: 0.02em;
     color: #2E2F42;
     margin-bottom: 16px;
-
 }
 
 .form-div {
@@ -655,9 +654,8 @@ input::placeholder {
     fill: #000;
 }
 
-
 .icon-modal:hover,
-.input-modal:focus {
+.icon-modal:focus {
     fill: #4d5ae5;
 }
 
@@ -682,7 +680,8 @@ input::placeholder {
     
 }
 
-.text-area:focus {
+.text-area:focus,
+.text-area:hover {
     border-color: #4D5AE5;
 }
 
@@ -715,7 +714,8 @@ input::placeholder {
     fill: #f4f4fd;
 }
 
-.privacy-link {
+.privacy-link:focus,
+.privacy-link:hover {
     color: #4d5ae5;
 }
 
