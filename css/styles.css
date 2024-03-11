@@ -658,8 +658,8 @@ input::placeholder {
 
 
 .icon-modal:hover,
-.input-modal:hover {
-    fill: #4D5AE5;
+.input-modal:focus {
+    fill: #4d5ae5;
 }
 
 .comment-div {
@@ -716,7 +716,7 @@ input::placeholder {
     fill: #f4f4fd;
 }
 
-.privacy-libk {
+.privacy-link {
     color: #4d5ae5;
 }
 
