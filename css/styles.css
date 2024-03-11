@@ -714,8 +714,7 @@ input::placeholder {
     fill: #f4f4fd;
 }
 
-.privacy-link:focus,
-.privacy-link:hover {
+.privacy-link:focus {
     color: #4d5ae5;
 }
 
