@@ -686,3 +686,12 @@ input::placeholder {
 .text-area:focus {
     border-color: #4D5AE5;
 }
+
+/*TEST*/
+
+.accept {
+    margin-bottom: 24px;
+}
+
+
+/*TEST*/
