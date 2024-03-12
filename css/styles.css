@@ -717,6 +717,11 @@ input::placeholder {
     fill: #f4f4fd;
 }
 
+.input-modal:focus + .icon-modal,
+.input-modal:hover + .icon-modal {
+    fill: #4D5AE5;
+}
+
 .privacy-link {
     color: #4d5ae5;
 }
